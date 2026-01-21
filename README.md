@@ -18,7 +18,16 @@
              <a href="https://www.grandepremio.com.br/f1/noticias/audi-lanca-r26-mergulha-nova-era-f1-temporada-2026/" target="_blank">
   <button type="button">Audi lança R26 e mergulha em nova era da F1 na temporada 2026</button>
 </a>
+<br>
 <a href="https://livemarketing.com.br/mercado-livre-e-gabriel-bortoleto-fecham-parceria-historica-na-f1" target="_blank">
   <button type="button">Mercado Livre e Gabriel Bortoleto fecham parceria histórica na F1
 </button>
+              </a>
+              <br>
+              <a href="https://www.grandepremio.com.br/f1/noticias/audi-avalia-novo-regulamento-f1-preve-tipo-diferente-corrida-2026/" target="_blank">
+  <button type="button">Audi avalia novo regulamento da F1 e prevê “tipo diferente de corrida” em 2026</button>
+              </a>
+              <br>
+              <a href="https://www.grandepremio.com.br/f1/noticias/audi-lanca-r26-mergulha-nova-era-f1-temporada-2026/" target="_blank">
+  <button type="button">Audi lança R26 e mergulha em nova era da F1 na temporada 2026</button>
               </a>
