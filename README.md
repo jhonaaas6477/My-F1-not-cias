@@ -6,9 +6,8 @@
   <meta charset="UTF-8">
     <h1>F1: Conheça a nova equipe da F1</h1>
     </head>
-  <hr>
-    
     <body>
+  <hr>
       <h2>Conheça agora a nova equipe da F1<h2>
         <p> A Cadillac anunciou sua entrada na Fórmula 1 a partir da 	temporada de 2026, marcando um momento histórico para a categoria com a chegada de uma nova equipe apoiada por um grande grupo industrial.<br>
           O projeto é resultado da parceria entre a General Motors, controladora da Cadillac, e a TWG Motorsports, ligada à estrutura da Andretti Global, e recebeu aprovação oficial da FIA e da Fórmula 1 após o cumprimento de exigências técnicas, esportivas e financeiras.<br> A equipe será a décima primeira no grid, ampliando a competição em um período de mudanças profundas no regulamento, especialmente no que se refere às novas unidades de potência e à busca por maior eficiência energética e sustentabilidade.<br>
@@ -31,3 +30,5 @@
               <a href="https://www.grandepremio.com.br/f1/noticias/audi-lanca-r26-mergulha-nova-era-f1-temporada-2026/" target="_blank">
   <button type="button">Audi lança R26 e mergulha em nova era da F1 na temporada 2026</button>
               </a>
+              </body>
+              </html>
